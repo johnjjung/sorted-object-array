@@ -1,0 +1,19 @@
+{
+    "name": "sorted-object-array",
+    "description": "An implements insertion sort and binary search of JavaScript objects for fast insertion and deletion.",
+    "version": "1.0.0",
+    "keywords": ["sorted", "array", "insertion", "sort", "insert", "binary", "search", "deletion", "delete", "object"],
+    "author": "John Jung",
+    "main": "lib/sorted-object-array.js",
+    "bugs": "https://github.com/johnjjung/sorted-object-array/issues",
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://opensource.org/licenses/MIT"
+    }],
+    "repositories": [{
+        "type": "git",
+        "url": "https://github.com/johnjjung/sorted-object-array.git"
+    }],
+    "dependencies": {},
+    "homepage": "https://github.com/johnjjung/sorted-object-array"
+}
